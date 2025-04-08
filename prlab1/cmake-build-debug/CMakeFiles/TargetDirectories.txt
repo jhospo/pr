@@ -1,3 +1,0 @@
-E:/cprojects/prlab1/cmake-build-debug/CMakeFiles/prlab1.dir
-E:/cprojects/prlab1/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/cprojects/prlab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
